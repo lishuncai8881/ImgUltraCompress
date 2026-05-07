@@ -26,7 +26,7 @@ new Vue({
                 duration: 5000,
                 message: h('p', [
                     "本工具GitHub地址：",
-                    h('el-link', { attrs: { type: 'primary', underline: false, href: 'https://github.com/youshandefeiyang/ImgUltraCompress', target: '_blank' } }, '点击查看')
+                    h('el-link', { attrs: { type: 'primary', underline: false, href: 'https://github.com/lishuncai8881/ImgUltraCompress', target: '_blank' } }, '点击查看')
                 ])
             });
         },
